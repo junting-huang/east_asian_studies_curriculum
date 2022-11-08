@@ -1,4 +1,5 @@
-## Mapping Chinese Studies Curriculum: What are the Most Assigned Texts in the Field?
+## Mapping Chinese Studies Curriculum
+### What are the Most Assigned Texts in the Field?
 
 This is an archive for all notebook files created for the Mapping Chinese Studies Project.
 
